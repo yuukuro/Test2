@@ -9,5 +9,13 @@ public class Test1 {
 		System.out.println(4444);
 		
 		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		System.out.println(66666);
+		
 	}
 }
